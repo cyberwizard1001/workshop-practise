@@ -2,11 +2,7 @@
 
 To put your project up on GitHub, you'll need to create a repository for it to live in.
 
-<img height="250" width="250" src="/Users/venkatasridharsaikalavalapalli/Desktop/new_repo.png">
 
-<br>
-
-<img height="500" width="500" src="/Users/venkatasridharsaikalavalapalli/Desktop/details.png">
 
 What's the real difference between a public and a private repository?
 - public repository: This repository can be seen by Anyone on the internet.
