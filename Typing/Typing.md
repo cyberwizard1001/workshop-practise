@@ -9,16 +9,16 @@ We have discussed the importance of touch typing as part of our workshop  and no
 
 **To Learn:** 
 
- - typing.com
- - typingclub.com
+ - `typing.com`
+ - `typingclub.com`
  
  These sites offer a range of exercises to train for every row, character and every keystroke. Touch typing is all about muscle memory and the exercises given and the tests will give you enough practise.
 
 **To practise:**
 
- - monkeytype.com
- - typeracer.com 
- - typer.io
+ - `monkeytype.com`
+ - `typeracer.com` 
+ - `typer.io`
 
 These sites let you track your typing speed periodically and to contest other touch typists around the world. There are different types of tests - timed, ones with easy words, with difficult words and so on. Your typing speed is an asset and can even be mentioned in your GitHub profile! Typeracer even offers a sticker for the same. 
 
