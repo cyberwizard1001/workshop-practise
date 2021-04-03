@@ -2,17 +2,17 @@
 
 To put your project up on GitHub, you'll need to create a repository for it to live in.
 
-<br><br>
+<br><br><br>
 
-> What's the real difference between a public and a private repository?
-- public repository: This repository can be seen by anyone on the internet.
+### Public vs Provate Repository
+-Public repository:  This repository can be seen by anyone on the internet.
                      Anyone who wants to make some changes to your repository can fork 
                      it and start making changes to their copy. They can even contribute 
                      back to your repository in the form of pull requests.
  
-- private repository: This repository can be seen only by the people who 
+- Private repository: This repository can be seen only by the people who 
                      you specifically give access to.
-<br><br>
+<br><br> <br>
 
 ### Adding a readme: 
 This is a document in the home of the repo where you can give a detailed explanation of your project
@@ -37,13 +37,13 @@ Adding a .gitignore file your repository ignores production files that are gener
 - Many people on GitHub also store their personal .gitignores on Github that you can use for your projects. 
   
              
-             <br> <br> <br>
+<br> <br> <br>
              
 
 ### Choosing a licence: 
-Public repositories on GitHub are often used to share open source software. For your repository to truly be open source, you'll need to license it so that others are free to use, change, and distribute the software. \
+Public repositories on GitHub are often used to share open source software. For your repository to truly be open source, you'll need to license it so that others are free to use, change, and distribute the software. 
   
-                 
+<br><br><br>  
                  
                  
 choosing a right licence:
