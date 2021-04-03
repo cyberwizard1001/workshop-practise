@@ -14,16 +14,21 @@ To put your project up on GitHub, you'll need to create a repository for it to l
                      you specifically give access to.
 <br><br>
 
-<h3> Adding a readme: </h3>
-This is the place where you can give a detailed explanation to your project
-and if possible the user manual which helps the uses of your project set your
-project up instantly on their local machine.
+### Adding a readme: 
+This is a document in the home of the repo where you can give a detailed explanation of your project
+and if possible/required, instructions for the user to download and setup your project on their local machine. 
 
-<h3> Adding a .gitignore: </h3>
-Adding this file your repository ignores the production files that are also
-being commited into the repo.
+- Readme is written in a new language - markdown! It's like HTML, but easier.
+- This document that you're reading at the moment, has been generated through Markdown!
+- One doesn't really have to 'learn' markdown - just grab the excellent MDN (Mozilla Developer Network) or Github markdown reference and start typing away!
+- A good quality readme can make or break your project. However awesome your code is, the end user must be able to download and get it to work for them to appreciate your excellent coding skills!
 
-<h3> Choosing a licence: </h3>
+
+### Adding a .gitignore: 
+Adding a .gitignore file your repository ignores production files that are generated while uploading files to GitHub. Everything from simple C programs to complex Android applications will need some extra files to generate that are created at the time of compiling the program. However, these files are unnecessary for the developer/end user looking up your code. So we avoid uploading these files. There are gitignore files defined for most languages by GitHub themselves, and this can be applied while setting up your repository. Many people on GitHub also store their personal .gitignores on Github that you can use for your projects.
+
+
+### Choosing a licence: 
 Public repositories on GitHub are often used to share open source software. For your repository to truly be open source, you'll need to license it so that others are free to use, change, and distribute the software.
 
 choosing a right licence:
