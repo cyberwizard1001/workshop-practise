@@ -2,16 +2,17 @@
 
 To put your project up on GitHub, you'll need to create a repository for it to live in.
 
+<br><br>
 
-
-What's the real difference between a public and a private repository?
-- public repository: This repository can be seen by Anyone on the internet.
+> What's the real difference between a public and a private repository?
+- public repository: This repository can be seen by anyone on the internet.
                      Anyone who wants to make some changes to your repository can fork 
-                     it and contribute to your repository in the form of pull requests.
+                     it and start making changes to their copy. They can even contribute 
+                     back to your repository in the form of pull requests.
  
 - private repository: This repository can be seen only by the people who 
                      you specifically give access to.
-
+<br><br>
 
 <h3> Adding a readme: </h3>
 This is the place where you can give a detailed explanation to your project
