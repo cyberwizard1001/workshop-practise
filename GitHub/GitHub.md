@@ -25,7 +25,11 @@ and if possible/required, instructions for the user to download and setup your p
 
 
 ### Adding a .gitignore: 
-Adding a .gitignore file your repository ignores production files that are generated while uploading files to GitHub. Everything from simple C programs to complex Android applications will need some extra files to generate that are created at the time of compiling the program. However, these files are unnecessary for the developer/end user looking up your code. So we avoid uploading these files. There are gitignore files defined for most languages by GitHub themselves, and this can be applied while setting up your repository. Many people on GitHub also store their personal .gitignores on Github that you can use for your projects.
+Adding a .gitignore file your repository ignores production files that are generated while uploading files to GitHub. 
+- Everything from simple C programs to complex Android applications will need some extra files to generate that are created at the time of compiling the program. 
+- However, these files are unnecessary for the developer/end user looking up your code. So we avoid uploading these files. 
+- There are gitignore files defined for most languages by GitHub themselves, and this can be applied while setting up your repository. 
+- Many people on GitHub also store their personal .gitignores on Github that you can use for your projects.
 
 
 ### Choosing a licence: 
