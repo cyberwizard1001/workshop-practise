@@ -5,7 +5,7 @@ To put your project up on GitHub, you'll need to create a repository for it to l
 <br><br><br>
 
 ### Public vs Provate Repository
--Public repository:  This repository can be seen by anyone on the internet.
+- Public repository:  This repository can be seen by anyone on the internet.
                      Anyone who wants to make some changes to your repository can fork 
                      it and start making changes to their copy. They can even contribute 
                      back to your repository in the form of pull requests.
