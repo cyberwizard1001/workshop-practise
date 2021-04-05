@@ -1,4 +1,4 @@
-##Set up Git
+## Set up Git
 
 <h3>There are two ways to use git locally on your computer:</h3>
 - Github CLI
@@ -32,14 +32,9 @@ Git installed on your machine then you can download and install it by clicking [
 Github Desktop uses the email address you set in your local Git configuration 
 to connect the commits you make with your account on Github.
 
-##the rest of the things are the screenshots from this page Nirmal. https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/configuring-git-for-github-desktop
 
 
 
 
-
-
-
-
-[1]:[https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home]]
+[1]:https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
 [2]:https://git-scm.com/downloads
