@@ -26,7 +26,7 @@ Assuming you have Homebrew installed and setup, you can go ahead and run: <br> <
 
 **Fedora, RHEL based distributions:**
 
-``` sudo dnf intsall git ``` <br> <br>
+``` sudo dnf install git ``` <br> <br>
 
 **SUSE based distributions:**
 
