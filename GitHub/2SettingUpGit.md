@@ -32,7 +32,7 @@ Assuming you have Homebrew installed and setup, you can go ahead and run: <br> `
 
 ``` zypper install git ``` <br> <br>
 
-*Arch based distributions: *
+*Arch based distributions:*
 
 ``` sudo pacman -S git ``` <br> <br>
 
@@ -46,11 +46,11 @@ If you want to work with Git locally and you're worried about the command line e
 Download Github Desktop: https://desktop.github.com 
 (Download the appropriate version of Github Desktop for your operating system.)
 
-<br>
+<br> <br>
 
 ### Having an account:
 
-At this point, you should have a GitHub account setup and functioning. If not, do head over [here][1] and sign yourself up!
+At this point, you should have a GitHub account setup and functioning. If not, do head over [here][1] and sign yourself up! <br> <br>
 
 
 ### Configuring Git:
@@ -59,8 +59,8 @@ At this point, you should have a GitHub account setup and functioning. If not, d
 
 To begin using GitHub from your local machine, you need to set a username and email address to identify yourself while making commits and what not. To do so, we have to run a couple of commands. <br>
 
-*Username : * ``` git config --global user.name "FIRST_NAME LAST_NAME"``` <br> <br>
-*E-Mail ID: * ``` git config --global user.email "MY_NAME@example.com" ``` <br>
+*Username :* ``` git config --global user.name "FIRST_NAME LAST_NAME"``` <br> <br>
+*E-Mail ID:* ``` git config --global user.email "MY_NAME@example.com" ``` <br>
 
 #### Configure Git for Github Desktop:
 
