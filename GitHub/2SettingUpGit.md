@@ -12,38 +12,41 @@ You can download the executable from the following page for Microsoft Windows.
 
 Link: https://git-scm.com/download
 
-Once downloaded, follow the on screen prompts to install. As a beginner, it's pretty safe to not change anything and just install the default configuration. Once that is done, you will find a program called *'Git Bash'* in your Start menu. Congratulations! You've successfully installed Git.
+Once downloaded, follow the on screen prompts to install. As a beginner, it's pretty safe to not change anything and just install the default configuration. Once that is done, you will find a program called *'Git Bash'* in your Start menu. Congratulations! You've successfully installed Git. <br>
 
 #### For other OSes: 
 
 *macOS:* 
 
-Assuming you have Homebrew installed and setup, you can go ahead and run: ``` brew install git ``` 
+Assuming you have Homebrew installed and setup, you can go ahead and run: <br> ``` brew install git ``` <br> <br>
 
 *Ubuntu and derivatives:*
 
-``` sudo apt install git ```
+``` sudo apt install git ``` <br> <br>
 
 *Fedora, RHEL based distributions:*
 
-``` sudo dnf intsall git ```
+``` sudo dnf intsall git ``` <br> <br>
 
 *SUSE based distributions:*
 
-``` zypper install git ```
+``` zypper install git ``` <br> <br>
 
 *Arch based distributions: *
 
-``` sudo pacman -S git ```
+``` sudo pacman -S git ``` <br> <br>
 
 
 #### Github Desktop:
 
-If you want to work with Git locally and you're worried about the command line experience, you can initially download and use the GitHub Desktop interface that provides most of the essential features of GitHub. Download it and follow the onscreen prompts. 
+If you want to work with Git locally and you're worried about the command line experience, you can initially download and use the GitHub Desktop interface that provides most of the essential features of GitHub. Download it and follow the onscreen prompts. <br>
 
-*NOTE: Git has to be installed already for GitHub Dekstop to work*
+*NOTE: Git has to be installed already for GitHub Dekstop to work* <br>
 
-Download Github Desktop: https://desktop.github.com (Download the appropriate version of Github Desktop for your operating system.)
+Download Github Desktop: https://desktop.github.com 
+(Download the appropriate version of Github Desktop for your operating system.)
+
+<br>
 
 ### Having an account:
 
@@ -54,10 +57,10 @@ At this point, you should have a GitHub account setup and functioning. If not, d
 
 #### Configure Git CLI:
 
-To begin using GitHub from your local machine, you need to set a username and email address to identify yourself while making commits and what not. To do so, we have to run a couple of commands. 
+To begin using GitHub from your local machine, you need to set a username and email address to identify yourself while making commits and what not. To do so, we have to run a couple of commands. <br>
 
-*Username : * ``` git config --global user.name "FIRST_NAME LAST_NAME"```
-*E-Mail ID: * ``` git config --global user.email "MY_NAME@example.com" ```
+*Username : * ``` git config --global user.name "FIRST_NAME LAST_NAME"``` <br> <br>
+*E-Mail ID: * ``` git config --global user.email "MY_NAME@example.com" ``` <br>
 
 #### Configure Git for Github Desktop:
 
