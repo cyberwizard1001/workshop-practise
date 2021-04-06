@@ -59,7 +59,7 @@ At this point, you should have a GitHub account setup and functioning. If not, d
 To begin using GitHub from your local machine, you need to set a username and email address to identify yourself while making commits and what not. To do so, we have to run a couple of commands. <br>
 
 *Username :* ``` git config --global user.name "FIRST_NAME LAST_NAME"``` <br> <br>
-*E-Mail ID:* ``` git config --global user.email "MY_NAME@example.com" ``` <br>
+*E-Mail ID:* ``` git config --global user.email "MY_NAME@example.com" ``` <br> <br> 
 
 #### Configure Git for Github Desktop:
 
