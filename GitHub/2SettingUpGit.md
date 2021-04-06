@@ -18,21 +18,21 @@ Once downloaded, follow the on screen prompts to install. As a beginner, it's pr
 
 *macOS:* 
 
-Assuming you have Homebrew installed and setup, you can go ahead and run: <br> ``` brew install git ``` <br> <br>
+Assuming you have Homebrew installed and setup, you can go ahead and run: <br> <br> ``` brew install git ``` <br> <br>
 
-*Ubuntu and derivatives:*
+**Ubuntu and derivatives:**
 
 ``` sudo apt install git ``` <br> <br>
 
-*Fedora, RHEL based distributions:*
+**Fedora, RHEL based distributions:**
 
 ``` sudo dnf intsall git ``` <br> <br>
 
-*SUSE based distributions:*
+**SUSE based distributions:**
 
 ``` zypper install git ``` <br> <br>
 
-*Arch based distributions:*
+**Arch based distributions:**
 
 ``` sudo pacman -S git ``` <br> <br>
 
