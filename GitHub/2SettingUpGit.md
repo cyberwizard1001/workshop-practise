@@ -13,6 +13,7 @@ you can follow the instructions given in the following link to install Github CL
 Link: https://github.com/cli/cli#installation
 
 <h4>Github Desktop:</h4>    
+
 If you want to work with Git locally, but don't want to use    
 command line interface, you can download and install Github Desktop
 
@@ -35,7 +36,46 @@ Git installed on your machine then you can download and install it by clicking [
 Github Desktop uses the email address you set in your local Git configuration     
 to connect the commits you make with your account on Github.
 
-Steps to be followed on Mac:
+<h4>Steps to be followed on Mac:</h4>
+
+1. sign in Github.
+2. On the upper-right corner of the page, click on your profile photo.
+3. Select setting from the Drop-down appeared as a result of the click on profile photo.
+   <!-- photo 1. https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/configuring-git-for-github-desktop -->
+4. Now in settings click emails.
+   <!-- photo 2 same link as in the comment above -->
+5. Copy the email address you'd like to use in your local Git configuration.
+6. In the menu bar, use the GitHub Desktop drop-down menu, then click Preferences.
+    <!-- picture 3 same comment mac setup-->
+7. In the Preferences window, click Git.
+    <!-- picture 4 same comment -->
+8. In the Name field, type the name you'd like to use for your Git configuration.
+    <!-- picture 4 same link-->
+9. In the Email field, paste the email address you copied from your GitHub or GitHub Enterprise account settings
+    <!-- picture 5 same link -->
+10. Click Save.
+<!-- picture 6 same link -->
+
+
+<h4>Steps to be followed on Windows:</h4>
+
+1. sign in Github.
+2. On the upper-right corner of the page, click on your profile photo.
+3. Select setting from the Drop-down appeared as a result of the click on profile photo.
+   <!-- photo 1. https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/configuring-git-for-github-desktop -->
+4. Now in settings click emails.
+   <!-- photo 2 same link as in the comment above -->
+5. Copy the email address you'd like to use in your local Git configuration.
+6. Return to the Github Desktop, Use the file menu, then click on options.
+    <!-- picture 3 same comment mac setup-->
+7. In the Options window, click Git.
+    <!-- picture 4 same comment -->
+8. In the Name field, type the name you'd like to use for your Git configuration.
+    <!-- picture 4 same link-->
+9. In the Email field, paste the email address you copied from your GitHub or GitHub Enterprise account settings
+    <!-- picture 5 same link -->
+10. Click Save.
+<!-- picture 6 same link -->
 
 
 
