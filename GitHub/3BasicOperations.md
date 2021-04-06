@@ -80,6 +80,19 @@ To push your changes to the remote copy, run the following command:
 - To be absolutely sure, open the YourNameHere file to verify that your name has been added. 
 
 
+## Pulling
+
+Assume you are working from multiple devices, or that you are collaborating with someone. Your local copy is old, and you want to refresh the repository by downloading the changes. What do you do?
+
+Say hi to Push.
+
+Simply run the command 
+
+```git push``` 
+
+and it will download any new changes to your local repository!
+
+
 And with that, we have covered most of the basics of how to use GitHub. If all you want to do is use GitHub as a place to store your code, you're basically done at this point. But the key purpose of Git is for collaboration (and it will come in REALLY useful in your third semester final projects!) and to collaborate, we're going to learn a couple more things. 
 
 Check out the next file!
