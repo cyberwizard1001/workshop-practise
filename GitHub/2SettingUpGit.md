@@ -16,8 +16,7 @@ Once downloaded, follow the on screen prompts to install. As a beginner, it's pr
 
 #### For other OSes: 
 
-*macOS:* 
-
+**macOS:** 
 Assuming you have Homebrew installed and setup, you can go ahead and run: <br> <br> ``` brew install git ``` <br> <br>
 
 **Ubuntu and derivatives:**
