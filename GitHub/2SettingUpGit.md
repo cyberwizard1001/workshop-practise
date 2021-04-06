@@ -42,7 +42,7 @@ If you want to work with Git locally and you're worried about the command line e
 
 *NOTE: Git has to be installed already for GitHub Dekstop to work* <br>
 
-Download Github Desktop: https://desktop.github.com 
+Download Github Desktop: https://desktop.github.com <br> 
 (Download the appropriate version of Github Desktop for your operating system.)
 
 <br> <br>
