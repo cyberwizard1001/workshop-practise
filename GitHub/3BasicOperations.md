@@ -92,6 +92,7 @@ Simply run the command
 
 and it will download any new changes to your local repository!
 
+### Moving forward: 
 
 And with that, we have covered most of the basics of how to use GitHub. If all you want to do is use GitHub as a place to store your code, you're basically done at this point. But the key purpose of Git is for collaboration (and it will come in REALLY useful in your third semester final projects!) and to collaborate, we're going to learn a couple more things. 
 
