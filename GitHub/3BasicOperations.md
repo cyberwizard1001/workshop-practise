@@ -84,11 +84,11 @@ To push your changes to the remote copy, run the following command:
 
 Assume you are working from multiple devices, or that you are collaborating with someone. Your local copy is old, and you want to refresh the repository by downloading the changes. What do you do?
 
-Say hi to Push.
+Say hi to Pull.
 
 Simply run the command 
 
-```git push``` 
+```git pull``` 
 
 and it will download any new changes to your local repository!
 
