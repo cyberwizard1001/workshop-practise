@@ -1,2 +1,2 @@
-# workshop-practise
-Holds content for the ASCII workshop that happened on April 8-9.
+# There is 1 Impostor among us
+xxPennyxx was not The Impostor.
