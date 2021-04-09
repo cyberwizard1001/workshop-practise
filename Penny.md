@@ -1,1 +1,1 @@
-There is 1 Impostor among us
+There are 2 Impostors among us
