@@ -46,7 +46,7 @@ Public repositories on GitHub are often used to share open source software. For 
 <br><br><br>  
                  
                  
-choosing a right licence:
+#### Choosing the right licence:
 Github has a webpage called [choosealicence.com][1], to help you understand how to license your code. A software license tells others what they can and can't do with your source code, so it's important to make an informed decision.
 
 
