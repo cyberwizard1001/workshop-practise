@@ -8,7 +8,7 @@ Forking is an important feature. It is used to create an exact copy of the repos
 - Once there, look for the fork button in the top right of the page, and click on it. 
 - Tadaa! Your own copy of the repository is ready for you to work on :)
 
-<br> <br> <br> 
+<br> 
 
 - We will begin by forking this repository. 
 - Open the repository page: github.com/cyberwizard1001/workshop-practise
