@@ -11,7 +11,7 @@ Forking is an important feature. It is used to create an exact copy of the repos
 <br> 
 
 - We will begin by forking this repository. 
-- Open the repository page: github.com/cyberwizard1001/workshop-practise
+- Open the repository page: [github.com/cyberwizard1001/workshop-practise]
 - Click on the fork button.
 - Watch as a copy of this repository is created in your account! 
 - You will be able to access this at `github.com/YourUsernameHere/workshop-practise`
@@ -28,7 +28,7 @@ To obtain a local copy of this repository, we will be cloning it. Cloning is the
 - Search for Git CLI in the Start menu on your local machine and click on the Git CLI app. A terminal window should open at this point, pointing to your home directory. 
 - Navigate to the directory you want this repo in (using the *cd* command) and run the following command: 
 
-```git clone https://github.com/YourUsernameHere/workshop-practise.git ```
+  ```git clone https://github.com/YourUsernameHere/workshop-practise.git ```
 
 (Paste the downloaded link by right clicking and selecting *paste* or using the Shift+Ins keyboard shortcut or any other pasting shortcut that applies to your system)
 
