@@ -25,6 +25,16 @@ To obtain a local copy of this repository, we will be cloning it. Cloning is the
 - Open `github.com/YourUsernameHere/workshop-practise` in your browser (where `YourUsernameHere` is your username)
 - Locate the green colored ***Code*** button and click on it, then copy the URL (there's a `copy to clipboard` button there as well). 
 
+- Search for Git CLI in the Start menu on your local machine and click on the Git CLI app. A terminal window should open at this point, pointing to your home directory. 
+- Navigate to the directory you want this repo in (using the *cd* command) and run the following command: 
+
+```git clone https://github.com/YourUsernameHere/workshop-practise.git ```
+
+(Paste the downloaded link by right clicking and selecting *paste* or using the Shift+Ins keyboard shortcut or any other pasting shortcut that applies to your system)
+
+Now, press **ENTER**.
+
+And we're done! You should see the files downloading at this point. Once the command is complete, you have an up to date copy of the code that's on your repository on your local machine! 
 
 ### branch 
 ### checkout 
