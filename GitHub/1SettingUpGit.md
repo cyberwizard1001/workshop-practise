@@ -31,13 +31,13 @@ brew install git
 
 #### Linux
 
-There are quite a few distros out there, and you'll need to use their respective package manager.
+There are quite a few distros out there, and you'll need to use their respective package managers.
 
 - **Ubuntu and derivatives:** `sudo apt install git`
 
 - **Fedora, RHEL based distributions:** ` sudo dnf install git`
 
-- **SUSE based distributions:** `zypper install git`
+- **SUSE based distributions:** `sudo zypper install git`
 
 - **Arch 😎 based distributions:** `sudo pacman -S git`
 
