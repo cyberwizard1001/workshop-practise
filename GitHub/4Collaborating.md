@@ -43,7 +43,7 @@ And we're done! You should see the files downloading at this point. Once the com
 
 ### add
 
-    `git add . ` ===> your gateway to the staging area
+`git add . ` ===> your gateway to the staging area
 
 ### merge
 
