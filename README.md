@@ -2,4 +2,4 @@
 xxPennyxx was not The Impostor.
 
 
-This line was added by Vaidehi aka xxPennyxx
+This line was added during the workshop
