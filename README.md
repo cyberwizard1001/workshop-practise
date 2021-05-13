@@ -2,6 +2,4 @@
 
 Holds content for ASCII workshops!
 
-This line was added during the workshop!!
-
-New line added!!
+This is the new edited line!
