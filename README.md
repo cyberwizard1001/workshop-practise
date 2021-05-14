@@ -1,4 +1,3 @@
-# Workshop Practice
+# Salut:)!!!
 
-Holds content for ASCII workshops!
 
