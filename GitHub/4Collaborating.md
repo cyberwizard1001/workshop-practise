@@ -47,6 +47,6 @@ And we're done! You should see the files downloading at this point. Once the com
 
 ### merge
 
-### cheesy outro
+### cheesy outro.
 
 #### note: fetch, it's difference from pull
