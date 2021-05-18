@@ -1,4 +1,3 @@
-# Workshop Practice
+# bruh
 
-Holds content for ASCII workshops!
 
