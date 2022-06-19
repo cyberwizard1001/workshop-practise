@@ -1,4 +1,4 @@
-# Workshop Practice
+# CSE: A Survival Guide 2022
+## Everything about GitHub right at your fingertips. Go ahead and git started!
 
-Holds content for ASCII workshops!
 
